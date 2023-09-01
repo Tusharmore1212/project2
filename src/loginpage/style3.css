@@ -1,0 +1,31 @@
+body{
+    font-family: areal;
+    font-size: 16px;
+    margin: 0;
+    background:linear-gradient(to right bottom, #d13cff, #031f6a);
+    
+  
+ 
+    color: #000;
+}
+button
+{
+    padding: 12px 20px;
+    align-self: center;
+    background: #0ea4da;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+}
+#fileInput
+{
+    width: 30%;
+    height: 30px;
+    border-radius: 10;
+    resize: none;
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 450px;
+
+}
